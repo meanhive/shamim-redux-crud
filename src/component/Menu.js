@@ -3,7 +3,7 @@ import { NavLink } from 'react-router-dom'
 
 function Menu() {
   return (
-    <nav className="navbar navbar-expand-md navbar-dark bg-primary">
+    <nav className="navbar navbar-expand-md navbar-dark bg-success">
         <div className="container">
             <NavLink to={`/`} className="navbar-brand">redux crud</NavLink>
 
